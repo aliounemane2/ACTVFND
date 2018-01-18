@@ -1,0 +1,54 @@
+/* add this to website */
+{
+	numbers follow and like
+	menu fixed
+	bouton joli
+	border cadre oc
+	coeur like number
+	--> popular tags
+	agenda ou calendrier, méteo today, toom
+	publicity
+	point de vente
+	police
+	position fixed on the top menu
+	--> international langague
+	codes api css bouton with taille
+	---------------------------------------
+	QUNIT
+	IETESTER
+	JSPERF
+}
+
+/*shadow petit nice*/
+{
+	font-size: 14px;
+	padding: 10px;
+	background: #fff;
+	border-radius: 4px;
+	box-shadow: 0 1px 2px rgba(0,0,0,.2);
+	margin-bottom: 6px;
+}
+
+{
+	Recherche animation
+	=====================
+	-diviser le cadre en deux parties
+		zone 1: grande partie: carte sénégal+points rouge;
+		zone 2: partie moyenne: petite loupe a droite + un petit texte introductif;
+
+	-Déroulement
+		qd la souris se trouve au dessu du cadre ou du bouton
+			-il aparaitra des points désignant des objets disparus sur la carte
+			-la loupe qui se trouve dans la zone deux disparai avec sa zone aussi
+				et va tourner pour rechercher l'objet
+			-le texte ne bouge presque pas.
+
+	
+
+	Déclaration Animation
+	=====================
+	-diviser le cadre en deux parties
+		zone 1: grande partie: ;
+		zone 2: partie moyenne: petit objet + un petit texte introductif;
+
+}

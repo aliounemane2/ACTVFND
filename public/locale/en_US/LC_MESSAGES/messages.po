@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wouti\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-11 02:43-0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Serigne <massebodian@gmail.com>\n"
+"Language-Team: wouti.inc <wouti@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: SENEGAL\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\ACTVFND\\public\n"
+"X-Poedit-SearchPath-1: C:\\wamp\\www\\ACTVFND\\files\\Models\n"
+"X-Poedit-SearchPath-2: C:\\wamp\\www\\ACTVFND\\files\n"
+
+#: C:\wamp\www\ACTVFND\files\Models/basic_model.php:98
+msgid "Accueil"
+msgstr "Home"
+
+#: C:\wamp\www\ACTVFND\files\Models/basic_model.php:100
+msgid "Rechercher"
+msgstr "Search"
+
+#: C:\wamp\www\ACTVFND\files\Models/basic_model.php:102
+msgid "Déclarer"
+msgstr "Declare"
+
+#: C:\wamp\www\ACTVFND\files\Models/basic_model.php:104
+msgid "Mode d'emploi"
+msgstr "Manual"
+
+#: C:\wamp\www\ACTVFND\files\Models/basic_model.php:147
+msgid "développé par"
+msgstr "Designed and developed by"
+
+#: C:\wamp\www\ACTVFND\files\Models/basic_model.php:149
+#: C:\wamp\www\ACTVFND\files/apropos.php:2
+msgid "A propos"
+msgstr "About"
+
+#: C:\wamp\www\ACTVFND\files\Models/basic_model.php:150
+msgid "Contacts"
+msgstr "Contacts"
+
+#: C:\wamp\www\ACTVFND\files\Models/basic_model.php:151
+msgid "Mentions"
+msgstr "Legals"
+
+#: C:\wamp\www\ACTVFND\files/accueil.php:1
+msgid "La Première plateforme d'aide à la recherche"
+msgstr "First research support platform"
+
+#: C:\wamp\www\ACTVFND\files/accueil.php:2
+msgid "d'objets perdus dédiée à la population Sénégalaise"
+msgstr "of lost items dedicated to the Senegalese population"
+
+#: C:\wamp\www\ACTVFND\files/accueil.php:5
+msgid "Un geste citoyen pour un Sénégal émergent"
+msgstr "A civic gesture for emerging Senegal"
+
+#: C:\wamp\www\ACTVFND\files/accueil.php:25
+msgid "Vous avez perdu un objet, n'importe lequel, avec un peu de chance vous le retrouverez ici"
+msgstr "You lost an object , any , with a little luck you will find it here"
+
+#: C:\wamp\www\ACTVFND\files/accueil.php:30
+msgid "Je Recherche"
+msgstr "I Search"
+
+#: C:\wamp\www\ACTVFND\files/accueil.php:41
+msgid "Vous avez trouvé un objet, vous voulez accomplir un geste citoyen, déclarez le ici"
+msgstr "You found an object you want to accomplish a civic gesture , report it here"
+
+#: C:\wamp\www\ACTVFND\files/accueil.php:46
+msgid "Je Déclare"
+msgstr "I Declare"
+
+#: C:\wamp\www\ACTVFND\files/apropos.php:12
+msgid "Que faire"
+msgstr "What to do"
+
+#: C:\wamp\www\ACTVFND\files/apropos.php:24
+msgid "Qu’est-ce que  Wouti"
+msgstr "What Is Wouti"
+
+#: C:\wamp\www\ACTVFND\files/apropos.php:28
+msgid "Nous sommes Wouti"
+msgstr "We Are Wouti"
+
+#: C:\wamp\www\ACTVFND\files/declarer.php:14
+msgid "Quelques informations sur vous"
+msgstr "Some informations about you"
+
+#: C:\wamp\www\ACTVFND\files/declarer.php:18
+msgid "Nom"
+msgstr "Last name"
+
+#: C:\wamp\www\ACTVFND\files/declarer.php:23
+msgid "Prénom"
+msgstr "First name"
+
+#: C:\wamp\www\ACTVFND\files/declarer.php:28
+msgid "Où habitez-vous"
+msgstr "Your current address"
+
+#: C:\wamp\www\ACTVFND\files/declarer.php:33
+msgid "Numero de tél."
+msgstr "Your mobile phone number"
+
+#: C:\wamp\www\ACTVFND\files/declarer.php:46
+msgid "Quelques informations sur l'objet"
+msgstr "Some informations about the objetct"
+
+#: C:\wamp\www\ACTVFND\files/declarer.php:50
+msgid "Nature, Type de l'objet"
+msgstr "Nature of the object"
+
+#: C:\wamp\www\ACTVFND\files/declarer.php:55
+msgid "Où l'avez-vous ramassé"
+msgstr "Where did you collected it"
+
+#: C:\wamp\www\ACTVFND\files/declarer.php:60
+msgid "Quelques détails sur l'objet"
+msgstr "Some details about the object"
+
+#: C:\wamp\www\ACTVFND\files/declarer.php:70
+msgid "Enregistrer"
+msgstr "Save informations"
+
+#: C:\wamp\www\ACTVFND\files/modeEmploi.php:7
+msgid "Comment ça fonctionne"
+msgstr "how it works"
+
+#: C:\wamp\www\ACTVFND\files/modeEmploi.php:10
+msgid "Une petite introduction"
+msgstr "A short introduction"
+
+#: C:\wamp\www\ACTVFND\files/modeEmploi.php:24
+msgid "Une petite vidéo pour comprendre"
+msgstr "A little video to understand"
+
+#: C:\wamp\www\ACTVFND\files/rechercher.php:26
+msgid "Qu'avez-vous perdu"
+msgstr "What did you lose"
+
+#: C:\wamp\www\ACTVFND\files/resultats_rech.php:43
+msgid "Votre objet"
+msgstr "your object"
+
+#: C:\wamp\www\ACTVFND\files/resultats_rech.php:43
+msgid "n'a pas été trouvé ! Gardez confiance et venez revoir dans quelques jours"
+msgstr "was not found ! Keep confidence and come again in a few days"
+
+#: C:\wamp\www\ACTVFND\files/wouti_contact.php:10
+msgid "Nous contacter"
+msgstr "Contact us"
+
+#: C:\wamp\www\ACTVFND\files/wouti_contact.php:12
+msgid "Pour tout renseignements ou services particuliers, vous pouvez nous contacter via"
+msgstr "For information or special services , you can contact us via"
+
+#: C:\wamp\www\ACTVFND\files/wouti_mentions.php:2
+msgid "Conditions Générales d'Utilisation"
+msgstr "Legals"
+
+#: C:\wamp\www\ACTVFND\files/wouti_mentions.php:17
+msgid "Utilisation de nos Services"
+msgstr "Using our Services"
+
+#: C:\wamp\www\ACTVFND\files/wouti_mentions.php:35
+msgid "Conditions d'utilisation"
+msgstr "Legals"
+
+#: C:\wamp\www\ACTVFND\files/wouti_mentions.php:50
+msgid "Quelques recommandations"
+msgstr "Some informations about you"
+
+#~ msgid "A PROPOS"
+#~ msgstr "About us"
+#~ msgid "Vider"
+#~ msgstr "Empty fields"
+#~ msgid "Accueil "
+#~ msgstr "Home"
+#~ msgid "Menu"
+#~ msgstr "Home"
+
+#, fuzzy
+#~ msgid "Accueil1"
+#~ msgstr "Home"
+#~ msgid "merde"
+#~ msgstr "Translated"
+#~ msgid "Mon tableau de prix nobels"
+#~ msgstr "My prix nobels table"
+#~ msgid "La"
+#~ msgstr "The"
+
+#, fuzzy
+#~ msgid "tableau"
+#~ msgstr "Table"
+
+#, fuzzy
+#~ msgid "partir"
+#~ msgstr "Go"
+
+#, fuzzy
+#~ msgid "donner"
+#~ msgstr "Give"
+
